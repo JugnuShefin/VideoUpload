@@ -1,0 +1,11 @@
+api
+url, method, body, header
+
+State Lifting
+
+dragging events
+-----------------
+onDragStart
+OnDragOver
+OnDrop
+(events with target value)

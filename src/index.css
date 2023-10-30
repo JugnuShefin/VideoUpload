@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+span {
+  color: red;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Young Serif', serif;
+}
+
+p {
+  font-family: 'Satisfy', cursive;
+}
+
+#b1 {
+  width: 33%;
+  border-radius: 20px;
+  height: 42px;
+  background-color: black;
+  color: red;
+  border: 1px red solid;
+}
+
+#b1:hover {
+  background-color: red;
+  color: black;
+  border: 2px white dotted;
+}
